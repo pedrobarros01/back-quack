@@ -8,6 +8,6 @@ Arquivo que contem todas as dependencias do projeto junto com configurações do
 - Node.JS
 - Vscode/IDE que permite executar codigos do Node.JS
 ## Como iniciar ?
-1 - Use o comando no terminal do projeto `npm install`
-2 - De o comando `npm run start`
+1. Use o comando no terminal do projeto `npm install`
+2. De o comando `npm run start`
 
